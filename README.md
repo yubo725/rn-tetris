@@ -8,6 +8,8 @@
 <img src='./screenshots/qr_code.png'>
 
 # 截图
-<img src='./screenshots/1.jpg' width="300">
-<img src='./screenshots/2.jpg' width="300">
-<img src='./screenshots/3.jpg' width="300">
+<div>
+  <img src='./screenshots/1.jpg' width="300">
+  <img src='./screenshots/2.jpg' width="300">
+  <img src='./screenshots/3.jpg' width="300">
+</div>
