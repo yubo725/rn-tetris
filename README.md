@@ -15,12 +15,12 @@
 
 # 截图
 <div>
-  <img src='./screenshots/1.jpg' width="300">
-  <img src='./screenshots/2.jpg' width="300">
-  <img src='./screenshots/3.jpg' width="300">
+  <img src='./screenshots/1.jpg' width="260">
+  <img src='./screenshots/2.jpg' width="260">
+  <img src='./screenshots/3.jpg' width="260">
 </div>
 <div>
-  <img src='./screenshots/rntetris01.png' width="300">
-  <img src='./screenshots/rntetris02.png' width="300">
-  <img src='./screenshots/rntetris03.png' width="300">
+  <img src='./screenshots/rntetris01.png' width="260">
+  <img src='./screenshots/rntetris02.png' width="260">
+  <img src='./screenshots/rntetris03.png' width="260">
 </div>
